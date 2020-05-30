@@ -21,7 +21,7 @@
 -	To be able to provide advice and to share knowledge educating others
 -	Collect feedback for new ideas in order to progress and offer courses that people would want to see
 
-### User Stories
+### User Stories:
 
 - As an owner, I would like to provide a schedule, so that it is more convenient to inform students if there are any updates or changes.
 
@@ -74,7 +74,7 @@ This also allows potential clients to view students work in case they want to em
 - Footer 
   - This will include social media links and copywrite information, by clicking the icon this will direct the user to a new tab taking them to the webpage for the selected social media element.
 
-### Features Left to Implement
+### Features Left to Implement:
 
 -	FAQs
 -	Reviews/ testimonials/guestbook
