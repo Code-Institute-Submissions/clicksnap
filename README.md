@@ -43,7 +43,9 @@
 
 - As a user, I would like to be able to contact a staff member, so that I can get some help or advice.
 
+### Wireframes:
 
+Here are a set of images that I have created towards the design process. The [Wireframes](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/Wireframes) will show how the website functions, along with the stucture and elements for each page.
 
 ## Features
 
