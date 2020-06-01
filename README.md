@@ -2,7 +2,9 @@
 
 ## ClickSnap Photography
 
-**ClickSnap Photography** is a website built to promote our photography lessons and showcase the wonderful world of photographic images. We have a range of lessons starting from beginner to professional so anyone can sign up and become a student. Whether you’re here to gain a new skill, start a new hobby, kick start a new career or to gain new knowledge and a better understanding about photography, everyone is welcome. 
+**ClickSnap Photography** is a website built to promote our photography lessons and showcase the wonderful world of photographic images. 
+We have a range of lessons starting from beginner to professional so anyone can sign up and become a student. Whether you’re here to gain
+ a new skill, start a new hobby, kick start a new career or to gain new knowledge and a better understanding about photography, everyone is welcome. 
 
 ## UX
 
@@ -54,7 +56,7 @@ Here are a set of images that I have created towards the design process. The [Wi
 - Header
   - Company name and Logo – this allows visitors to always be able to view the company information, clicking this will always send users back to the homepage.
 
-  - Navigation Bar – allows visitors to view a menu of the website’s sections, clicking a specific tab takes you directly to that feature.
+  - Navigation Bar – allows visitors to view a menu of the website’s sections (Home, Gallery, Workshops and Contact), by clicking a tab this will take the user directly to that feature.
 
 - Homepage 
   - Introduction – allows visitors to see information about the company and what they’re about.
@@ -68,7 +70,7 @@ Here are a set of images that I have created towards the design process. The [Wi
 This also allows potential clients to view students work in case they want to employ them.
 
 - Schedule
-  - Schedule Table - allows students and potential students to be able to view the times, dates and location of each class plus additional details, by choosing an option from a dropdown menu that classes from each level.
+  - Schedule Table - allows students and potential students to be able to view the times, dates and location of each class plus additional details, by clicking the download icon users are able to download a timetable in pdf format for that specific month.
 
 - Contact
   - Contact Form - allows students, potential students and visitors to contact staff with any enquiries and concerns or to give feedback and suggestions, by filling out a form element which includes a text box users can enquire about the course and level they want to enrol in.
