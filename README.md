@@ -47,7 +47,7 @@ We have a range of lessons starting from beginner to professional so anyone can 
 
 ### Wireframes:
 
-Here are a set of images that I have created towards the design process. The [Wireframes](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/Wireframes) will show how the website functions, along with the stucture and elements for each page.
+Here are a set of Wireframes that I have constructed towards the design process, I have created two layouts one for [desktop](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/wireframes/desktop) and one for [mobile](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/wireframes/mobile). These wireframes show the structure and elements for each page and how the website functions.
 
 ## Features
 
