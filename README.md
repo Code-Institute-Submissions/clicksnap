@@ -80,9 +80,12 @@ This also allows potential clients to view students work in case they want to em
 
 ### Features Left to Implement:
 
--	FAQs
--	Reviews/ testimonials/guestbook
--	Competitions
-- Forum for students/student portal
--	Excursions 
+-  FAQs - this will be implemented in the contact page; this gives visitors a chance to promptly obtain an answer to any questions or concern they have without having to fill out a form or send an email.
 
+-  Reviews - this will be implemented in a new section of the website as a guestbook style form; this will allow students to be able to post a review of the course and how they are getting on, and also allows potential students to view these comments helping them make a decision on whether they would like to enrol.
+
+-  Competitions - this will be implemented in a new section of the website under an activity page; this will allow students to view specifications and details for any ongoing competitions and how they can enter. 
+
+-  Excursions - this will be implemented in a new section of the website under an activity page; this will allow students to be able to book and confirm if they want to attend any excursions or day trips that are a part of the course. Providing details regarding facilities, accessibility and if any additional fees may occur.
+
+-  Schedule Dropdown Menu - adding a new feature to the schedule; this allows students and potential students to be able to choose an option from a dropdown menu to specifically select a photography class and skill level so that they can view that particular timetable.
