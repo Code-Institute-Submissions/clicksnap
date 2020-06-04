@@ -1,5 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Abel&family=Cinzel+Decorative:wght@400;700;900&display=swap');
 
-body {
-   background-color: blue;
+/* -----------------------Heading----------------------- */
+.navbar {
+	background-color: #07596d;
+	border-bottom: 1px solid #0a0a0a;
+    width: 100%;
+    padding: 1.5rem 1rem;
 }
 
+.logo h3 {
+    font-family: 'Cinzel Decorative';
+    letter-spacing: 1px;
+    margin: 0;
+    color: #ffffff;
+    float: left;
+
+}
+
+.fa-camera-retro:before {
+    color:#e5efb6;
+}
+
+.nav {
+    float: none;
+    position: absolute;
+    top: 84.6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0px;
+    margin: -2.5px;
+}
+
+ .nav-border {
+  border-bottom:1px solid #000;
+ } 
+
+.nav-border ul {
+  list-style:none;
+  margin:0;
+  padding:0; 
+ } 
+
+.nav-border ul li a { 
+  text-decoration:none;
+  line-height:23px;
+  font-family: 'Concert One';
+  font-size: 20px;
+  color:#000;
+  border:1px solid #000;
+  border-bottom:none;
+  padding: 0px 2px 2px 2px;
+  width:5px;
+  text-align:center;
+  background:#a9ade4;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px; 
+ } 
+
+.nav-border ul li a:hover {
+  background:#6970ef;
+  color:#FFF;
+  text-shadow:1px 1px 1px #000;
+}
+ 
+.nav-border ul li a.active {
+  background:#FFF;
+  color:#000;
+  border-bottom:2px solid #FFF; 
+ } 
+
+.nav-border ul li a.active:hover {
+  background:#FFF;
+  color:#a9ade4;
+  text-shadow:1px 1px 1px #000; 
+ }
