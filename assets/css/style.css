@@ -11,13 +11,15 @@
     justify-content: space-between;
 }
 
-.logo h3 {
+#logo {
+    float: left;
+} 
+
+h3 {
     font-family: 'Cinzel Decorative';
     letter-spacing: 1px;
     margin: 0;
     color: #ffffff;
-    float: left;
-
 }
 
 .fa-camera-retro:before {
@@ -74,11 +76,48 @@
 .nav-menu ul li a.active {
     background:#FFF;
     color: #000;
-    border-bottom:1px solid #FFF; 
+    margin: -1px;
  } 
 
 .nav-menu ul li a.active:hover {
     background:#FFF;
     color:#000;
     text-shadow:1px 1px 3px #1f5b65; 
+ }
+
+ /* -----------------------Hero Image----------------------- */
+
+ .hero {
+     height: 600px;
+     width: 100%;
+     border-bottom: 1px solid #0a0a0a;
+     overflow: hidden;
+ }
+ 
+#hero-image {
+     height: 600px;
+     width: 100%;
+     background: url("../images/camera.jpg") no-repeat center top;
+     background-size: cover;
+     
+ }
+
+ #hero-outer {
+     height: 600px;
+     width: 100%;
+    
+
+     animation-name: hero-zoom;
+     animation-duration: 5s;
+     animation-fill-mode: forwards;
+ }
+
+ @keyframes hero-zoom {
+     from{
+         transform: scale(1.4);
+     }
+
+     to{transform: scale(1);
+         
+     }
  }
