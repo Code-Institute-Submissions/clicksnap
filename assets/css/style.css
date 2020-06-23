@@ -88,14 +88,14 @@ h3 {
  /* -----------------------Hero Image----------------------- */
 
  .hero {
-     height: 500px;
+     height: 600px;
      width: 100%;
      border-bottom: 1px solid #0a0a0a;
      overflow: hidden;
  }
  
 #hero-image {
-     height: 500px;
+     height: 600px;
      width: 100%;
      background: url("../images/camera.jpg") no-repeat center top;
      background-size: cover;
@@ -103,7 +103,7 @@ h3 {
  }
 
  #hero-outer {
-     height: 500px;
+     height: 600px;
      width: 100%;
     
 
@@ -121,3 +121,33 @@ h3 {
          
      }
  }
+
+  /* -----------------------Home Info----------------------- */
+
+  #home-info {
+      margin: 10px;
+      font-family: 'Abel';
+  }
+
+h4 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.card-header {
+    padding: 0;
+}
+
+ p {
+    margin: 10px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
