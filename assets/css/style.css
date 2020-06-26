@@ -102,6 +102,14 @@ h3 {
      
  }
 
+ #hero-image-contact {
+     height: 600px;
+     width: 100%;
+     background: url("../images/phonecam.jpg") no-repeat center top;
+     background-size: cover;
+     
+ }
+
  #hero-outer {
      height: 600px;
      width: 100%;
