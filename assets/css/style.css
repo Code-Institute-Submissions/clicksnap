@@ -160,12 +160,13 @@ h4 {
 }
 
 .footer-banner{
-    position: relative;
+    position: fixed;
     background-color: #00373D;
     width: 100%;
     height : 45px;
     padding: 7px 10px;
     border-top: 1px solid #0a0a0a;
+    bottom: 0;
     
 }
 
@@ -202,3 +203,36 @@ h4 {
 body{
     background-color: #ECEFF1;
 }
+
+.map {
+    position: absolute;
+    float: right;
+    padding: 10px;
+    margin-top: 80px;
+    
+    margin-left: 300px;
+    
+}
+
+.address {
+    position: absolute;
+}
+
+
+
+#contact-info {
+      margin: 10px;
+      font-family: 'Abel';
+      position: relative;
+      z-index: 0;
+      
+  }
+
+  #email-p, #email-h, #tel-h, #tel-p {
+      display: inline;
+  }
+
+.map a{
+    color: #ECEFF1;
+}
+ 
