@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&Concert+One&family=Abel&family=Cinzel+Decorative:wght@400;700;900&display=swap');
 
+
+body{
+    background-color: #ECEFF1;
+}
+
 /* -----------------------Heading----------------------- */
 .banner {
     position: relative;
@@ -102,14 +107,6 @@ h3 {
      
  }
 
- #hero-image-contact {
-     height: 600px;
-     width: 100%;
-     background: url("../images/phonecam.jpg") no-repeat center top;
-     background-size: cover;
-     
- }
-
  #hero-outer {
      height: 600px;
      width: 100%;
@@ -159,6 +156,8 @@ h4 {
     padding: 10px;
 }
 
+/* -----------------------Bottom Banner----------------------- */
+
 .footer-banner{
     position: fixed;
     background-color: #00373D;
@@ -200,9 +199,14 @@ h4 {
     
 }
 
-body{
-    background-color: #ECEFF1;
-}
+/* -----------------------Contact Page----------------------- */
+#hero-image-contact {
+     height: 600px;
+     width: 100%;
+     background: url("../images/phonecam.jpg") no-repeat center top;
+     background-size: cover;
+     
+ }
 
 .map {
     position: absolute;
@@ -236,3 +240,22 @@ body{
     color: #ECEFF1;
 }
  
+label {
+    margin:0;
+}
+
+.form-control, .custom-select {
+    margin-bottom: .3em;
+}
+
+button {
+   margin: auto;
+}
+
+.centered-button {
+    text-align:center
+}
+
+textarea.form-control {
+    height: 6.5em
+}
