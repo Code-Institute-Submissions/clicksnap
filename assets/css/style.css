@@ -225,7 +225,6 @@ h4 {
 
 
 #contact-info {
-    background-color: #ECEFF1
       margin: 10px;
       font-family: 'Abel';
       position: relative;
@@ -286,4 +285,12 @@ textarea.form-control {
 #schedule-info {
       margin: 10px;
       font-family: 'Abel';
+  }
+
+  /* -----------------------Gallery Page----------------------- */
+
+  #gallery-info {
+      margin: 10px;
+      font-family: 'Abel';
+      text-align: center;
   }
