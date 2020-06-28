@@ -309,3 +309,11 @@ outline: none;
       font-family: 'Abel';
       text-align: center;
   }
+
+ #gallery-info p{
+     margin-bottom: 20px;
+ } 
+ #gallery-info h4 {
+     margin-top: 10px;
+     margin-bottom: 16px;
+ }
