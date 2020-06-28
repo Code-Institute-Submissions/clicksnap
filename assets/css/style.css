@@ -237,7 +237,8 @@ h4 {
   }
 
 .map a{
-    color: #ECEFF1;
+    color:rgba(0, 0, 0, 0.0);
+  
 }
  
 label {
@@ -248,14 +249,11 @@ label {
     margin-bottom: .3em;
 }
 
-.btn {
-        padding: 0rem .75rem;
+.centered-button .btn {
+    padding: .20rem .75rem;
 }
 
-button {
-   margin: auto;
-   margin-top: 10px;
-}
+
 
 .centered-button {
     text-align:center
@@ -287,6 +285,22 @@ button {
       margin: 10px;
       font-family: 'Abel';
   }
+
+
+ .hero-button {
+  text-align: center;
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  margin-top: 560px;
+  color: black;
+  height: 40px;
+ }
+
+ .hero-button:focus{
+outline: none;
+}
+
 
   /* -----------------------Gallery Page----------------------- */
 
