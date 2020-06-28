@@ -225,6 +225,7 @@ h4 {
 
 
 #contact-info {
+    background-color: #ECEFF1
       margin: 10px;
       font-family: 'Abel';
       position: relative;
@@ -259,3 +260,30 @@ button {
 textarea.form-control {
     height: 6.5em
 }
+
+/* -----------------------Schedule Page----------------------- */
+#hero-image-schedule {
+     height: 600px;
+     width: 100%;
+     background: url("../images/mapcam.jpg") no-repeat center top;
+     background-size: cover;
+}
+
+.table td, .table th {
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+
+}
+.table thead th {
+    border-bottom: 2px solid #000000;
+    border-top: 1px solid #000000;
+}
+
+.table {
+    border-bottom: 1px solid #000000;
+}
+
+#schedule-info {
+      margin: 10px;
+      font-family: 'Abel';
+  }
