@@ -250,6 +250,7 @@ label {
 }
 
 .centered-button .btn {
+    margin-top: 3px;
     padding: .20rem .75rem;
 }
 
@@ -298,22 +299,24 @@ label {
  }
 
  .hero-button:focus{
-outline: none;
-}
+ outline: none;
+ }
 
 
   /* -----------------------Gallery Page----------------------- */
 
-  #gallery-info {
+#gallery-info {
       margin: 10px;
       font-family: 'Abel';
       text-align: center;
   }
 
- #gallery-info p{
-     margin-bottom: 20px;
- } 
- #gallery-info h4 {
-     margin-top: 10px;
-     margin-bottom: 16px;
- }
+.carousel .carousel-inner{
+height:600px;
+border-bottom: 1px solid #0a0a0a;
+
+}
+.carousel-inner .carousel-item img{
+height:600px;
+object-fit:cover
+}
