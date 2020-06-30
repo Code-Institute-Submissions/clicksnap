@@ -302,6 +302,14 @@ label {
  outline: none;
  }
 
+th h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+th {
+    font-size: 18px;
+}
 
   /* -----------------------Gallery Page----------------------- */
 
