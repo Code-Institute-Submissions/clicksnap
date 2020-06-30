@@ -23,7 +23,7 @@ body{
     float: left;
 } 
 
-h3 {
+.logo h3 {
     font-family: 'Cinzel Decorative';
     letter-spacing: 1px;
     margin: 0;
@@ -314,9 +314,20 @@ label {
 .carousel .carousel-inner{
 height:600px;
 border-bottom: 1px solid #0a0a0a;
+background: black;
 
 }
 .carousel-inner .carousel-item img{
 height:600px;
-object-fit:cover
+object-fit:none;
+}
+
+.carousel-caption {
+    padding: 0px;
+    bottom: 0px;
+  
+}
+
+.carousel-caption h4, .carousel-caption h5, .carousel-caption p {
+      text-shadow:1px 1px 3px #000;
 }
