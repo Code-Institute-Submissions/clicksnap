@@ -6,6 +6,13 @@ html {
 }
 body{
     background-color: #ECEFF1;
+    #FBEBD8
+    #fff8d6
+    #ECEFF1
+}
+
+p {
+    margin: 10px;
 }
 
 /* -----------------------Heading----------------------- */
@@ -34,7 +41,7 @@ body{
     color:#e5efb6;
 }
 
-/* -----------------------Navigation Tabs----------------------- */
+/* -----------------------Navigation----------------------- */
 .nav {
     float: none;
     position: absolute;
@@ -72,7 +79,7 @@ body{
     text-align:center;
     background:#e6c294;
     border-top-left-radius:5px;
-    border-top-right-radius:5px; 
+    border-top-right-radius:5px;
  } 
 
 .nav-menu ul li a:hover {
@@ -93,6 +100,44 @@ body{
     text-shadow:1px 1px 3px #1f5b65; 
  }
 
+.dropdown {
+    display:none;
+    float: right;
+    position: absolute;
+    margin-top: 14px;
+    margin-right: 5px;
+    right: 0px;
+    padding: 0px;
+}
+
+.dropdown .btn {
+    height:40px;
+    width: 50px;
+}
+
+.dropdown-menu{
+    transform: translate3d(-105px, 40px, 0px); 
+    top: 0px; 
+    left: 0px;
+}
+
+.btn-secondary,
+.btn-secondary:hover {
+    color: #ffffff;
+    background-color: #ffc107;
+    border-color: #d39e00;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ffc107;
+}
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #d39e00;
+    border-color: #ffc107;
+}
  /* -----------------------Hero Image----------------------- */
 
  .hero {
@@ -146,13 +191,12 @@ h4 {
     outline: 0;
     box-shadow: none;
 }
+.btn-link:hover {
+    text-decoration: none;
+}
 
 .card-header {
     padding: 0;
-}
-
- p {
-    margin: 10px;
 }
 
 .card-body {
@@ -217,6 +261,10 @@ h4 {
     
 }
 
+#error_ {
+    display: none;
+}
+
 .address {
     position: absolute;
     margin-top: 10px;
@@ -258,6 +306,12 @@ label {
 
 .centered-button {
     text-align:center
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffc107;
+    border-color: #d39e00;
 }
 
 /* -----------------------Schedule Page----------------------- */
@@ -338,4 +392,37 @@ object-fit:none;
 
 .carousel-caption h4, .carousel-caption h5, .carousel-caption p {
       text-shadow:1px 1px 3px #000;
+}
+
+
+
+@media screen and (max-width:1393px){
+    #home-info h4{
+        padding-top: 20px;
+          }
+    .map, #error_ {
+    display: none;
+}
+
+}
+
+@media screen and (max-width:700px){
+    .nav{
+     display:none;     
+    }
+
+  .banner {
+    padding: 0.5rem 1rem;
+  }
+
+.dropdown {
+    display: block;
+}
+
+.logo h3 {
+    font-size: 20px;
+    width: 200px;
+    margin-top: 12px;
+}
+
 }
