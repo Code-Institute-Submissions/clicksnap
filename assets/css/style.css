@@ -195,6 +195,10 @@ h4 {
     text-decoration: none;
 }
 
+.btn-link:focus {
+    text-decoration: none;
+}
+
 .card-header {
     padding: 0;
 }
@@ -202,6 +206,15 @@ h4 {
 .card-body {
     padding: 10px;
 }
+
+ .drop-icon {
+     float: right;
+ }
+ .card p {
+     padding: 0px;
+     margin: 0px;
+     display: inline;
+ }
 
 /* -----------------------Bottom Banner----------------------- */
 
@@ -308,12 +321,6 @@ label {
     text-align:center
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #ffc107;
-    border-color: #d39e00;
-}
-
 /* -----------------------Schedule Page----------------------- */
 #hero-image-schedule {
      height: 600px;
@@ -373,6 +380,14 @@ th {
       text-align: center;
   }
 
+#gallery-info h4{
+        padding-top: 10px; 
+    }
+
+ #gallery-info p {
+        padding-bottom: 10px; 
+    }
+
 .carousel .carousel-inner{
 height:600px;
 border-bottom: 1px solid #0a0a0a;
@@ -397,16 +412,32 @@ object-fit:none;
 
 
 @media screen and (max-width:1393px){
-    #home-info h4{
-        padding-top: 20px;
-          }
     .map, #error_ {
     display: none;
 }
 
+
+
+.accordion {
+    padding-bottom: 15px;
 }
 
-@media screen and (max-width:700px){
+}
+
+@media screen and (max-width:1199px){
+.sub-head {
+        padding-top: 20px;
+          }
+.divider {
+    border-bottom: 2px solid #adb5bd;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+}
+
+@media screen and (max-width:500px){
     .nav{
      display:none;     
     }
@@ -425,4 +456,78 @@ object-fit:none;
     margin-top: 12px;
 }
 
+.copywrite {
+    left: 0;
+    transform: none;
+    padding: 4px;
+    font-size: 14px;
 }
+
+.divider1 {
+    border-bottom: 2px solid #adb5bd;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+#hero-image, #hero-image-contact, #hero-image-schedule {
+    height: 300px;
+    background-position: center;
+}
+
+ .hero  {
+     height:300px;
+ }
+
+ .carousel .carousel-inner {
+     height: 300px;
+ }
+.carousel-inner .carousel-item img {
+    height: 300px;
+    object-fit: cover;
+}
+.carousel h5 {
+    font-size: 12px;
+}
+.carousel h4 {
+    font-size: 14px;
+}
+
+.carousel p{
+    display: none;
+}
+.hero-button{
+    margin-top: 270px;
+    height: 30px;
+}
+
+th {
+    font-size: 16px;
+}
+th h4 {
+    font-size: 18px;
+}
+
+td{
+    font-size: 14px;
+}
+
+.address {
+    position: relative;
+}
+ .contact {
+        order: 2;
+    }
+
+    .contact-form {
+        order: 1;
+    }
+
+    .table-responsive-xl {
+        padding-left: 0;
+    }
+
+}
+
