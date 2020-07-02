@@ -204,6 +204,19 @@ h4 {
     padding: 10px;
 }
 
+.card-title {
+ margin-bottom: 10px;
+}
+
+.card-text {
+    margin-top: 10px;
+    }
+
+.card-price {
+    font-size: 18px;
+    color: #ee9836;
+}
+
  .drop-icon {
      float: right;
  }
@@ -496,7 +509,7 @@ object-fit:none;
     display: none;
 }
 .hero-button{
-    margin-top: 270px;
+    margin-top: 269px;
     height: 30px;
 }
 
@@ -525,6 +538,15 @@ td{
     .table-responsive-xl {
         padding-left: 0;
     }
+#gallery-info br {
+    display: none;
+}
 
+#gallery-info h4{
+    padding: 20px 10px; 
+}
+#gallery-info p{
+    padding-bottom: 25px; 
+}
 }
 
