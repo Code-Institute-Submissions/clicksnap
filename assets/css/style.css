@@ -445,6 +445,15 @@ object-fit:none;
     margin-right: auto;
     margin-top: 10px;
 }
+#gallery-info h4{
+    padding: 20px 10px; 
+}
+#gallery-info p{
+    padding-bottom: 25px; 
+}
+#gallery-info {
+    margin-bottom: 37px;
+}
 }
 
 @media screen and (max-width:500px){
