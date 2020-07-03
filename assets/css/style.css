@@ -422,7 +422,16 @@ object-fit:none;
 
 @media screen and (max-width:1600px){
 .card-title {
- font-size: 23px;
+ font-size: 21px;
+}
+
+.card-text {
+    font-size: 19px;
+}
+
+.card-price {
+    font-size: 17;
+}
 }
 
 @media screen and (max-width:1393px){
