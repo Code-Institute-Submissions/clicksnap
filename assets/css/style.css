@@ -197,8 +197,13 @@ h4 {
     text-decoration: none;
 }
 
-.card-header {
+.accordion .card-header{
     padding: 0;
+}
+
+#title .card-header {
+    padding: 5px;
+    background-color: bisque;
 }
 
 .card-body {
@@ -422,13 +427,6 @@ object-fit:none;
 
 
 /* -----------------------Media Queries----------------------- */
-
-@media screen and (max-width:1600px){
-.card-title {
- font-size: 21px;
- font-weight: bold;
- text-decoration: underline;
-}
 
 }
 
