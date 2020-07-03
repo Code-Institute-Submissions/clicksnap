@@ -135,7 +135,8 @@ p {
     background-color: #d39e00;
     border-color: #ffc107;
 }
- /* -----------------------Hero Image----------------------- */
+
+/* -----------------------Hero Image----------------------- */
 
  .hero {
      height: 600px;
@@ -172,7 +173,7 @@ p {
      }
  }
 
-  /* -----------------------Home Info----------------------- */
+/* -----------------------Home Info----------------------- */
 
   #home-info {
       margin: 10px;
@@ -382,7 +383,7 @@ th {
     font-size: 18px;
 }
 
-  /* -----------------------Gallery Page----------------------- */
+/* -----------------------Gallery Page----------------------- */
 
 #gallery-info {
       margin: 10px;
@@ -420,6 +421,8 @@ object-fit:none;
 }
 
 
+/* -----------------------Media Queries----------------------- */
+
 @media screen and (max-width:1600px){
 .card-title {
  font-size: 21px;
@@ -432,6 +435,7 @@ object-fit:none;
 .card-price {
     font-size: 17px;
 }
+
 }
 
 @media screen and (max-width:1393px){
@@ -439,19 +443,16 @@ object-fit:none;
     display: none;
 }
 
-
-
 .accordion {
     padding-bottom: 15px;
 }
-
-
 }
 
 @media screen and (max-width:1199px){
 .sub-head {
         padding-top: 20px;
           }
+
 .divider {
     border-bottom: 2px solid #adb5bd;
     width: 40px;
@@ -459,12 +460,15 @@ object-fit:none;
     margin-right: auto;
     margin-top: 10px;
 }
+
 #gallery-info h4{
     padding: 20px 10px; 
 }
+
 #gallery-info p{
     padding-bottom: 25px; 
 }
+
 #gallery-info {
     margin-bottom: 37px;
 }
@@ -550,17 +554,19 @@ td{
 .address {
     position: relative;
 }
- .contact {
+
+.contact {
         order: 2;
     }
 
-    .contact-form {
+.contact-form {
         order: 1;
     }
 
-    .table-responsive-xl {
+.table-responsive-xl {
         padding-left: 0;
     }
+
 #gallery-info br {
     display: none;
 }
