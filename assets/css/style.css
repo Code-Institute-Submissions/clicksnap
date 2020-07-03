@@ -201,7 +201,7 @@ h4 {
     padding: 0;
 }
 
-#title .card-header {
+#title.card-header {
     padding: 5px;
     background-color: bisque;
 }
