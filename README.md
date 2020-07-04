@@ -117,7 +117,7 @@ This also allows potential clients to view students work in case they want to em
 - [Google-Fonts](https://fonts.google.com/)  
   I have used __Google Fonts__ in my project by importing the chosen fonts into the __CSS__.
    - __Abel Font__ has been used to decorate the main body text in the HTML.
-   - __Dosis Font__ has been used to decorate the _Navigation Menus_.
+   - __Dosis Font__ has been used to decorate the _Navigation Tabs_.
    - __Cinzel decorative__ has been used to decorate the _Logo_.
 
 - [JavaScript](https://www.javascript.com/)  
