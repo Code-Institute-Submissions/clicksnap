@@ -488,6 +488,15 @@ padding-top: 20px;
 .contact-form {
         order: 1;
     }
+
+.divider1 {
+    border-bottom: 2px solid #adb5bd;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
 }
 
 @media screen and (max-width:500px){
@@ -514,15 +523,6 @@ padding-top: 20px;
     transform: none;
     padding: 4px;
     font-size: 14px;
-}
-
-.divider1 {
-    border-bottom: 2px solid #adb5bd;
-    width: 60px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px
 }
 
 #hero-image, #hero-image-contact, #hero-image-schedule {
