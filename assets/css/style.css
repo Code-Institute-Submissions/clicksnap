@@ -131,7 +131,7 @@ p {
     text-decoration: none;
     background-color: #ffc107;
 }
-a:not([href]) {
+a:not([href]), a:not([href]):hover {
     color: #ffffff;
 }
 
