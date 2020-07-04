@@ -131,6 +131,10 @@ p {
     text-decoration: none;
     background-color: #ffc107;
 }
+a:not([href]) {
+    color: #ffffff;
+}
+
 .btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
     color: #fff;
     background-color: #d39e00;
