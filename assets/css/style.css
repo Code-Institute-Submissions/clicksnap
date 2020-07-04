@@ -444,6 +444,12 @@ object-fit:none;
 }
 }
 
+@media screen and (max-width:1256px) {
+    .map{
+    display:none;
+    }
+}
+
 @media screen and (max-width:1199px){
 .sub-head {
 padding-top: 20px;
@@ -474,12 +480,6 @@ padding-top: 20px;
 #gallery-info {
     margin-bottom: 37px;
 }
-}
-
-@media screen and (max-width:1256) {
-    .map {
-        display: none;
-    }
 }
 
 @media screen and (max-width:500px){
