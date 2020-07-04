@@ -89,3 +89,42 @@ This also allows potential clients to view students work in case they want to em
 -  Excursions - this will be implemented in a new section of the website under an activity page; this will allow students to be able to book and confirm if they want to attend any excursions or day trips that are a part of the course. Providing details regarding facilities, accessibility and if any additional fees may occur.
 
 -  Schedule Dropdown Menu - adding a new feature to the schedule; this allows students and potential students to be able to choose an option from a dropdown menu to specifically select a photography class and skill level so that they can view that particular timetable.
+
+## Technologies Used:
+
+- HTML  
+  The main language used to create the project site.
+
+- CSS   
+  I have used __CSS__ stylesheet to style the sites __HTML__.
+
+- [Bootstrap](https://getbootstrap.com/)  
+  I have used __Bootstrap__ in my project for a number of components:
+    - __Collapse__ and __Cards__ for the dropdown course description within the _About_ section on the _Home Page_.
+    - __Cards__ for the information within the _Price_ section on the _Home Page_.
+    - __Carousel__ for the picture slideshow on the _Gallery Page_.
+    - __Forms__ for the contact form on the _Contact Page_.
+    - __Tables__ for the weekly schedule on the _Schedule Page_.
+    - __Dropdowns__ and __Buttons__ for the navigation menu on _Mobile/Small Screens_.
+
+- [Font-Awesome](https://fontawesome.com/)  
+  I have used __Font Awesome__ in my project to compliment various elements:
+    - __Camera Icon__ as part of the site logo in the banner of each page.
+    - __House, Image, Calendar__ and __Mobile Icons__ for the _Mobile Navigation Menu_ to show which page you are on without clicking the Nav Menu.
+    - __Facebook, Twitter, LinkedIn__ and __Instagram Icons__ for the social media links at the _footer_ of each page.
+    - __Download Icon__ for the monthly schedule download button on the _Schedule Page_.
+
+- [Google-Fonts](https://fonts.google.com/)  
+  I have used __Google Fonts__ in my project by importing the chosen fonts into the __CSS__.
+   - __Abel Font__ has been used to decorate the main body text in the HTML.
+   - __Dosis Font__ has been used to decorate the _Navigation Menus_.
+   - __Cinzel decorative__ has been used to decorate the _Logo_.
+
+- [JavaScript](https://www.javascript.com/)  
+  I have used __JavaScript__ in my project to correspond with Bootstraps components:
+    - __Collapse__ to show and hide the course description within the _About_ section on the _Home Page_, whenever the attribute is clicked on.
+    - __Carousel__ for the picture slideshow on the _Gallery Page_, to make the arrow controls work accordingly.
+    - __Hero Animation__ to make the hero image zoom in each time the _Home, Schedule_ and _Contact Pages_ are visited. 
+
+- [Maps-Generator](https://maps-generator.com/)  
+  I have used the __Maps Generator__ on the _Contact Page_ to show a thumbnail which when clicked will show the company’s location in google maps.
