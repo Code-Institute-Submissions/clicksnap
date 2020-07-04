@@ -455,12 +455,6 @@ object-fit:none;
 padding-top: 20px;
 }
 
-.card-title {
- font-size: 24px;
- font-weight: 400;
- text-decoration: none;
-}
-
 .divider {
     border-bottom: 2px solid #adb5bd;
     width: 40px;
