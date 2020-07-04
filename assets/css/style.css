@@ -476,6 +476,12 @@ padding-top: 20px;
 }
 }
 
+@media screen and (max-width:1256) {
+    .map {
+        display: none;
+    }
+}
+
 @media screen and (max-width:500px){
     .nav{
      display:none;     
