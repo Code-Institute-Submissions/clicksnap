@@ -480,6 +480,16 @@ padding-top: 20px;
 }
 }
 
+@media screen and (max-width:575px){
+.contact {
+        order: 2;
+    }
+
+.contact-form {
+        order: 1;
+    }
+}
+
 @media screen and (max-width:500px){
     .nav{
      display:none;     
@@ -560,14 +570,6 @@ td{
 .address {
     position: relative;
 }
-
-.contact {
-        order: 2;
-    }
-
-.contact-form {
-        order: 1;
-    }
 
 .table-responsive-xl {
         padding-left: 0;
