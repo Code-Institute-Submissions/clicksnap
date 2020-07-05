@@ -373,9 +373,12 @@ label {
 }
 
 #schedule-info {
-      padding-left: 15px;
       font-family: 'Abel';
   }
+.table-responsive-xl {
+    padding-left: 0px;
+    padding-right: 0px;
+    }
 
 
  .hero-button {
@@ -448,6 +451,7 @@ object-fit:none;
 
 
 /* -----------------------Media Queries----------------------- */
+
 
 
 @media screen and (max-width:1393px){
@@ -573,7 +577,6 @@ padding-top: 20px;
     padding: 3px;
     font-size: 14px;
 }
-}
 
 th {
     font-size: 16px;
@@ -585,11 +588,6 @@ th[scope=col] {
 td{
     font-size: 14px;
 }
-
-.table-responsive-xl {
-        padding-left: 0;
-    }
-
 #gallery-info br {
     display: none;
 }
@@ -599,5 +597,6 @@ td{
 }
 #gallery-info p{
     padding-bottom: 25px; 
+}
 }
 
