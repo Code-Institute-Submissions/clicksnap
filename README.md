@@ -352,6 +352,30 @@ __From 500px__
 - Download Full Month button - Size has been reduced to fit the smaller screen size.
 - Weekly Timetable - Table font size and width reduced as the length expands. Depending on mobile screen size, if not all of the content is shown it is accessible by swiping across to view all the information.
 
+## Deployment
+
+To deploy the project through GitHub Pages these are the steps I have taken:
+- Log into github.com
+- Click the circle logo in the top right-hand corner
+- Click Your repositories
+- Scroll down and click on the repository you want to deploy
+- Once the repository is open click the settings option from the menu under the repository name
+- In settings, scroll down to GitHub Pages
+- Where it says source, click the dropdown button
+- Select Master Branch
+- Click Save, the page will refresh
+- Scroll down to Github Pages and it will say your site is ready to be published at "...."  
+When its complete the final message will appear as: Your site is published at "...."  
+  - Here is my deployed project: https://tamaraa-m.github.io/clicksnap/
+
+Here are the steps to run my code locally:
+- First you will need to click this link: https://github.com/Tamaraa-M/clicksnap
+- Click the green button which says ‘Code’
+- From here there are a number of ways you can run the code
+  - You can use a public SSH key
+  - Use Git or checkout with SVN using the web URL
+  - Open it with GitHub desktop 
+  - Download via zip file
 
 
 
