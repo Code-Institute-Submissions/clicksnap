@@ -377,5 +377,52 @@ Here are the steps to run my code locally:
   - Open it with GitHub desktop 
   - Download via zip file
 
+## Credits
+
+### Content
+- [Name Generator](https://www.name-generator.org.uk/)
+  - I used this name generator to come up with the names for the Students in the Gallery Page
+- [Tabbed Navigation Menu](http://dreamweavertutorial.co.uk/dreamweaver/articles/css-tabbed-navigation-menu.htm)
+  - This code helped me to create and develop my tabbed navigation for the website
+- [Div Position](https://codepen.io/thepixelninja/pen/eZVgLx)
+  - This code helped me to change the order of the Address and Form on the Contact Page
+
+### Media
+The photos used in the site were obtained from __free source websites:__
+- [Home Page Hero image](https://www.pexels.com/photo/aperture-black-blur-camera-274973/)
+- [Schedule Page Hero Image](https://burst.shopify.com/photos/have-cameras-will-travel?q=have+camera+will+travel)
+- [Contact Page Hero Image](https://www.pexels.com/photo/blur-capture-display-electronics-296757/)  
+__Gallery Slideshow__
+  - [The Hidden Circle](https://www.pexels.com/photo/gray-bridge-and-trees-814499/)
+  - [Autumn Leaves](https://www.pexels.com/photo/clear-body-of-water-between-yellow-and-green-leaved-trees-223022/)
+  - [Midnight Moon](https://www.pexels.com/photo/light-landscape-sky-sunset-35888/)
+  - [Harmony](https://www.pexels.com/photo/backlit-beach-dawn-dusk-588561/)
+  - [Winter Warmer](https://www.pexels.com/photo/agriculture-basket-close-up-colorful-219794/)
+  - [Tranquil](https://www.pexels.com/photo/books-on-the-table-1809347/)
+  - [City Skyline at Night](https://www.pexels.com/photo/city-lights-night-ferris-wheel-17682/)
+  - [Crossing Bridges](https://www.pexels.com/photo/architecture-bridge-buildings-city-356799/)
+  - [Highway Lights](https://burst.shopify.com/photos/highway-lights-at-night?q=shutter+speed)
+  - [Grasshopper](https://www.pexels.com/photo/nature-animal-insect-grasshopper-59981/)
+  - [Moth](https://www.pexels.com/photo/white-brown-and-orange-moth-206770/)
+  - [Optimistic](https://burst.shopify.com/photos/confident-young-woman?q=portrait)
+  - [Woman in Black](https://www.pexels.com/photo/woman-wearing-black-scoop-neck-top-735552/)
+  - [Funfair](https://pixabay.com/photos/bumper-cars-motion-547575/)
+
+
+
+### Acknowledgements
+
+My inspiration for this project comes from my love for photography, I wanted to make a website that was both useful and beautiful at the same time. Photographs can really make a difference when it comes to design and media.
+Here are a few sites that I came across during my research that really caught my eye: 
+- https://www.thephotographyinstitute.co.uk/
+- https://creativephotographytraining.co.uk/
+- https://www.photographymadeeasy.com/
+- https://www.alanranger.com/
+- https://streetsnappers.com/
+- https://www.theschoolofphotography.com/
+
+
+
+
 
 
