@@ -368,7 +368,7 @@ label {
 }
 
 #schedule-info {
-      margin: 10px;
+      padding-left: 15px;
       font-family: 'Abel';
   }
 
@@ -574,7 +574,7 @@ padding-top: 20px;
 th {
     font-size: 16px;
 }
-th h4 {
+th[scope=col] {
     font-size: 18px;
 }
 
