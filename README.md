@@ -134,8 +134,8 @@ This also allows potential clients to view students work in case they want to em
 - [W3 Vailidator](https://validator.w3.org/)  
 I have used the __W3 Vailidator__ to upload my HTML and CSS files in order to detected any errors and issues within my code.
 
-## Testing
-Here is a link to the [testing]() process that I have conducted. Which outlines testing the user stories, the site contents and links,
+## [Testing](https://github.com/Tamaraa-M/clicksnap/blob/master/Testing.md)
+Here is a link to the testing process that I have conducted. Which outlines testing the user stories, the site contents and links,
 aswell as various screen sizes. I have also provided a list of devices used throught the testing process and talk about any bugs or 
 problems I have come across.
 
