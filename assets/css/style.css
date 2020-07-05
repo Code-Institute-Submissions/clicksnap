@@ -374,14 +374,22 @@ label {
 
 
  .hero-button {
-  text-align: center;
-  position: absolute;
-  z-index: 1;
-  right: 0;
-  margin-top: 560px;
-  color: black;
-  height: 40px;
- }
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    margin-top: 560px;
+    color: black;
+    height: 40px;
+    padding: 6px;
+    background-color: gainsboro;
+    border: 2px solid black;
+}
+
+a.hero-button {
+   color: black;
+   text-decoration: none;
+}
 
  .hero-button:focus{
  outline: none;
@@ -556,8 +564,11 @@ padding-top: 20px;
     display: none;
 }
 .hero-button{
-    margin-top: 269px;
+    margin-top: 270px;
     height: 30px;
+    padding: 3px;
+    font-size: 14px;
+}
 }
 
 th {
