@@ -598,5 +598,9 @@ td{
 #gallery-info p{
     padding-bottom: 25px; 
 }
+
+.social-links {
+    letter-spacing: 8px;
+}
 }
 
