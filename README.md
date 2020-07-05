@@ -304,7 +304,53 @@ __Errors after Deployment:__
   - Issue: The file path in the html was incorrect.
     - Fix: Remove “/” from the start of the file path.
 
+__Screen and Device sizes__
 
+__From 1256px__
+
+- Contact Page
+  - Map disappears - at this screen size it starts to overlap. (I didn’t want to incorporate it elsewhere on the page as I didn’t want to overcrowd the space, keeping the design clean.)
+
+__From 1199 - 577__
+- Navigation tabs - Pushed to stay centred in the browser screen.
+
+- Hero Images - At this screen size all hero images on the Home, Schedule and About Pages; outer edges get cut off, but the centre of the image still remains the focus point.
+
+- __Home Page:__
+- Introduction, About, Price List sections - Columns stack into 3 rows.
+- Section Headings - Top padding added to give more space between the information and hero image.
+- Section Dividers - Dividers are added between each information section to separate the content and give it a clearer and cleaner look.
+
+- __Gallery Page:__
+- Image slideshow - At this screen size the outer edges get cut off, but this doesn’t affect how the pictures are viewed, keeping the focal point of the images in focus.
+- Information section - Margin and padding added. Due to short content the footer wasn't being pushed down enough.
+
+- __Schedule Page:__
+-  Weekly Timetable - At this screen size the table width adjusts so that it can still be visible.
+
+__From 577px - 500px__
+- __Contact Page:__
+- Address and contact form - Div positions are swapped so that it was more responsive. It felt more natural to have the form become the first section you see before scrolling down to the address when on a smaller device. At this screen size the form started to overlap with the address. 
+- Section Divider - Added a divider to separate the content and give it a clearer and cleaner look.
+
+__From 500px__
+- Banner - Size reduced to fit better on mobile screens.
+- Logo - Reduce font size, collapse text so ‘ClickSnap’ now sits on top of “Photography’ for a more refined look.
+- Navigation Tab Menu - Changes to the mobile navigation button.
+
+- __Home Page:__
+- Price List - Cards stack into three rows.
+- Copywrite - Size reduced and position moved from the centre to the left.
+- Hero Image - All hero images on the Home, Schedule and About Pages; have reduced sizes so it takes up the right amount of space on mobile screens.
+
+- __Gallery:__
+- Image slideshow - Size has been reduced so that it takes up the appropriate amount of space for mobile screens.
+- Image slideshow Info - Student Name and Photography Title font sizes have been reduced. Image descriptions have been removed in order to not obscure the images.
+- Gallery Info - Line breaks have been removed, so that the text can flow nicely with the screen size.
+
+- __Schedule:__ 
+- Download Full Month button - Size has been reduced to fit the smaller screen size.
+- Weekly Timetable - Table font size and width reduced as the length expands. Depending on mobile screen size, if not all of the content is shown it is accessible by swiping across to view all the information.
 
 
 
