@@ -237,7 +237,7 @@ __Gallery Page__
 
 - __Links__
   - Click _'contact page'_ link - Directed to _Contact_ page
-  - Click _‘email’_ link - Opens email application with email address already filled out in the "Send To" section (Not supported by all devices depending on device settings and available applications)
+  - Click _‘email’_ link - Opens email application with email address already filled out in the "Send To" section
   - Click _‘contact form’_ link - Directed to _Contact_ page
 
 __Schedule Page__
@@ -246,8 +246,8 @@ __Schedule Page__
 
 __Contact Page__
 - __Links__
-  - Click _‘email’_ link - Opens email application with email address already filled out in the ‘Send To’ section (Not supported by all devices depending on device settings and available applications)
-  - Click _‘telephone’_ link - Depending on device these are the options its given: Opens call keypad/ Option to add to contacts/ Opens Skype/ Call this number from your phone/ Make a call from Facetime)
+  - Click _‘email’_ link - Opens email application with email address already filled out in the ‘Send To’ section
+  - Click _‘telephone’_ link - Opens an associated application or give an option to add to contacts
 
 - __Form__ 
   - Try to submit empty form - Text box alert appears on the _‘First Name’_ field: _"please fill in this field"_ 
@@ -261,10 +261,10 @@ __Contact Page__
 __Footer__
 - __Social Media Links__
   - From navigation menus _Home, Gallery, Schedule and Contact_ pages
-  - Click _‘Facebook Icon’_ Link - Directed to Facebook website
-  - Click _‘Twitter Icon’_ Link - Directed to Twitter website
-  - Click _‘LinkedIn Icon’_ Link - Directed to LinkedIn website
-  - Click _‘Instagram Icon’_ Link - Directed to Instagram website
+  - Click _‘Facebook Icon’_ Link - Directed to Facebook website or application if available 
+  - Click _‘Twitter Icon’_ Link - Directed to Twitter website or application if available 
+  - Click _‘LinkedIn Icon’_ Link - Directed to LinkedIn website or application if available 
+  - Click _‘Instagram Icon’_ Link - Directed to Instagram website or application if available 
 
 __Devices:__  
 Each device has carried out all the above tests; everything works as expected apart from a few bugs which are explained in the bug section.
@@ -283,26 +283,25 @@ Each device has carried out all the above tests; everything works as expected ap
 - Computer
   - Macbook Pro 16” - Chrome and Safari
   - Hp Pavillion 14” - Chrome and Edge
-  - Acer Nitro 5 15” - Chrome
+  - Acer Nitro 5 15” - Chrome and Internet Explorer
   - Samusung 21.5” Touchscreen All in One PC - Chrome Browser
 
 ### Bugs 
-- On Samusung 21.5” Touchscreen All in One PC - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response
-  - Fix: Not currently fixed.
+
+__Fixed Issues__
 - When the map code has been editied an error message shows up even though the map still functions as normal
-   - Fix: change error message display to none in CSS.
-- Not all Social Media links open in a new tab
-  - Issue: An issue with certain browsers.
-    - Fix: Not currently fixed.
-
-__Errors after Deployment:__
-- Gallery Page - Image slideshow - Images not loading.
-  - Issue: The file path in the html was using absolute file paths, rather than relative. 
-    - Fix: Remove "/" from the start of each file path.
-
+   - Fix: Change error message display to none in CSS
+- Gallery Page - Image Slideshow Images not loading
+   - Fix: Remove "/" from the start of each file path. The file path in the html was using absolute file paths, rather than relative. 
 - Schedule Page - Click ‘Download Full Month’ button - Error ‘Download Failed No File’
-  - Issue: The file path in the html was incorrect.
     - Fix: Remove “/” from the start of the file path.
+
+__Appending Issues__
+- On Samusung 21.5” Touchscreen All in One PC (Chrome Browser) - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response
+- Not all browsers open social Media links in a new tab 
+- W3 Vailidator Warning - "The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill."
+  - I have tested this in the browsers I have previously mentioned and it works fine in all apart from Internet Explorer. 
+
 
 ### Screen and Device sizes
 
