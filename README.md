@@ -8,7 +8,7 @@ We have a range of lessons starting from beginner to professional so anyone can 
 
 ## UX
 
-### External user’s goal:
+### External user’s goal
 
 -	The website is aimed at current students and potential students, who want to learn about Photography and are interested in taking lessons
 -	It enables users to meet and engage with new people that share similar a interest
@@ -16,14 +16,14 @@ We have a range of lessons starting from beginner to professional so anyone can 
 -	It helps users to gain new skills or improve their skills at a deeper level
 -	Offers a platform for students to share the work their proud of
 
-### Site owner’s goal:
+### Site owner’s goal
 
 -	The Photography Class is interested in gaining more recognition
 -	To attract and retain students
 -	To be able to provide advice and to share knowledge educating others
 -	Collect feedback for new ideas in order to progress and offer courses that people would want to see
 
-### User Stories:
+### User Stories
 
 - As an owner, I would like to provide a schedule, so that it is more convenient to inform students if there are any updates or changes.
 
@@ -45,13 +45,13 @@ We have a range of lessons starting from beginner to professional so anyone can 
 
 - As a user, I would like to be able to contact a staff member, so that I can get some help or advice.
 
-### Wireframes:
+### Wireframes
 
 Here are a set of Wireframes that I have constructed towards the design process, I have created two layouts one for [desktop](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/wireframes/desktop) and one for [mobile](https://github.com/Tamaraa-M/ClickSnap-Photography/tree/master/wireframes/mobile). These wireframes show the structure and elements for each page and how the website functions.
 
 ## Features
 
-### Existing features:
+### Existing features
 
 - Header
   - Company name and Logo – this allows visitors to always be able to view the company information, clicking this will always send users back to the homepage.
@@ -78,7 +78,7 @@ This also allows potential clients to view students work in case they want to em
 - Footer 
   - This will include social media links and copywrite information, by clicking the icon this will direct the user to a new tab taking them to the webpage for the selected social media element.
 
-### Features Left to Implement:
+### Features Left to Implement
 
 -  FAQs - this will be implemented in the contact page; this gives visitors a chance to promptly obtain an answer to any questions or concern they have without having to fill out a form or send an email.
 
@@ -90,7 +90,7 @@ This also allows potential clients to view students work in case they want to em
 
 -  Schedule Dropdown Menu - adding a new feature to the schedule; this allows students and potential students to be able to choose an option from a dropdown menu to specifically select a photography class and skill level so that they can view that particular timetable.
 
-## Technologies Used:
+## Technologies Used
 
 - HTML  
   The main language used to create the project site.
@@ -129,9 +129,9 @@ This also allows potential clients to view students work in case they want to em
 - [Maps-Generator](https://maps-generator.com/)  
   I have used the __Maps Generator__ on the _Contact Page_ to show a thumbnail which when clicked will show the company’s location in google maps.
 
-## Testing:
+## Testing
 
-### User Stories:
+### User Stories
   
 - As a potential student, I can click the gallery page directly from the navigation menu to view students work. I can click the arrows to scroll through each photograph. From here I can click a link that takes me to the contact page so that I can fill out the form regarding enrolling on a course.
 
@@ -147,7 +147,7 @@ This also allows potential clients to view students work in case they want to em
 
 - As a potential student, I can see the skills levels on the home page of the website. I can also see the cost, information on each course and what sort of payment plans they offer.
 
-### Tests Carried Out:
+### Tests Carried Out
 __Logo__
   - Go to _Home_ page
   - Click _Logo_ - Page refreshes
@@ -286,7 +286,7 @@ Each device has carried out all the above tests; everything works as expected ap
   - Acer Nitro 5 15” - Chrome
   - Samusung 21.5” Touchscreen All in One PC - Chrome Browser
 
-__Bugs:__  
+### Bugs 
 - On Samusung 21.5” Touchscreen All in One PC - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response
   - Fix: Not currently fixed.
 - When the map code has been editied an error message shows up even though the map still functions as normal
@@ -304,7 +304,7 @@ __Errors after Deployment:__
   - Issue: The file path in the html was incorrect.
     - Fix: Remove “/” from the start of the file path.
 
-__Screen and Device sizes__
+### Screen and Device sizes
 
 __From 1256px__
 
