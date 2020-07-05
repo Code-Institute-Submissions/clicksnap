@@ -168,8 +168,9 @@ _Home Page_:
 - [x] Price List Cards Mobile (3 rows, orange headers)
 - [x] Footer (Green)
 - [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
-- [x] Copywrite text and symbol
-_Gallery Page_:
+- [x] Copywrite text and symbol  
+
+_Gallery Page_:  
 - [x] Banner (Green)
 - [x] Logo
 - [x] Logo Icon
@@ -181,7 +182,8 @@ _Gallery Page_:
 - [x] Content and links (Beauty is in the lens of the beholder)
 - [x] Footer (Green)
 - [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
-- [x] Copywrite text and symbol
+- [x] Copywrite text and symbol  
+
 _Schedule Page_:
 - [x] Banner (Green)
 - [x] Logo
@@ -193,6 +195,7 @@ _Schedule Page_:
 - [x] Footer (Green)
 - [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
 - [x] Copywrite text and symbol  
+
 _Contact Page_:
 - [x] Banner (Green)
 - [x] Logo
