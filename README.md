@@ -154,56 +154,57 @@ I have used the __W3 Vailidator__ to upload my HTML and CSS files in order to de
 
 ### Tests Carried Out 
 Test to make sure content loads on all browsers and devices:  
-_Home Page_:
-- Banner (Green) -[x]  
-- Logo - [x]  
-- Logo Icon - [x]  
-- Navigation Menu Desktop Tabs (Home, Gallery, Schedule and Contact) - [x]  
-- Navigation Menu Mobile Dropdown Button (Home, Gallery, Schedule and Contact) - [x]
-- Camera Hero Image and Animation - [x]
-- Content and links (Introduction, About and Price List Sections) - [x]
-- Dropdown Cards (Landscape, Macro, Panoramic, Portrait, Shutter Speed, Silhouette and Still Life) - [x]
-- Price List Cards Desktop (3 coloumns, orange headers) - [x]
-- Price List Cards Mobile (3 rows, orange headers) - [x]
-- Footer (Green) - [x]
-- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x]  
+
+_Home Page_:  
+- [x] Banner (Green) 
+- [x] Logo  
+- [x] Logo Icon
+- [x] Navigation Menu Desktop Tabs (Home, Gallery, Schedule and Contact)
+- [x] Navigation Menu Mobile Dropdown Button (Home, Gallery, Schedule and Contact)
+- [x] Camera Hero Image and Animation
+- [x] Content and links (Introduction, About and Price List Sections)
+- [x] Dropdown Cards (Landscape, Macro, Panoramic, Portrait, Shutter Speed, Silhouette and Still Life)
+- [x] Price List Cards Desktop (3 coloumns, orange headers)
+- [x] Price List Cards Mobile (3 rows, orange headers)
+- [x] Footer (Green)
+- [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
+- [x] Copywrite text and symbol
 _Gallery Page_:
-- Banner (Green) - [x]
-- Logo - [x]  
-- Logo Icon - [x]  
-- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]
-- Slideshow all 14 images (Slide auto scroll) - [x]
-- Arrow Controls - [x]
-- Slideshow Name, Course Title and Description (Desktop) - [x]
-- Slideshow Name and Course Title (Mobile) - [x]
-- Content and links (Beauty is in the lens of the beholder) - [x]
-- Footer (Green) - [x]
-- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x]  
+- [x] Banner (Green)
+- [x] Logo
+- [x] Logo Icon
+- [x] Navigation Menu Tabs (Home, Gallery, Schedule and Contact)
+- [x] Slideshow all 14 images (Slide auto scroll)
+- [x] Arrow Controls
+- [x] Slideshow Name, Course Title and Description (Desktop)
+- [x] Slideshow Name and Course Title (Mobile)
+- [x] Content and links (Beauty is in the lens of the beholder)
+- [x] Footer (Green)
+- [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
+- [x] Copywrite text and symbol
 _Schedule Page_:
-- Banner (Green) - [x]  
-- Logo - [x]  
-- Logo Icon - [x]  
-- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]  
-- Camera Map Hero Image and Animation - [x]
-- Download Full Month Button - [x]
-- Table (5 coloumns, 8 rows)) - [x]
-- Footer (Green) - [x]
-- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x]  
+- [x] Banner (Green)
+- [x] Logo
+- [x] Logo Icon
+- [x] Navigation Menu Tabs (Home, Gallery, Schedule and Contact) 
+- [x] Camera Map Hero Image and Animation
+- [x] Download Full Month Button
+- [x] Table (5 coloumns, 8 rows)
+- [x] Footer (Green)
+- [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
+- [x] Copywrite text and symbol  
 _Contact Page_:
-- Banner (Green) - [x]  
-- Logo - [x]  
-- Logo Icon - [x]  
-- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]  
-- Phone Camera Hero Image and Animation - [x]
-- Content and links (Address, Email and Phone) - [x]
-- Map (Desktop) - [x]
-- Form (First name, last name, email, dob, starting level, course interest, text box and send button) - [x]
-- Footer (Green) - [x]
-- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x] 
+- [x] Banner (Green)
+- [x] Logo
+- [x] Logo Icon
+- [x] Navigation Menu Tabs (Home, Gallery, Schedule and Contact)
+- [x] Phone Camera Hero Image and Animation
+- [x] Content and links (Address, Email and Phone)
+- [x] Map (Desktop)
+- [x] Form (First name, last name, email, dob, starting level, course interest, text box and send button)
+- [x] Footer (Green)
+- [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
+- [x] Copywrite text and symbol 
 
 Testing Clickable Actions
 
