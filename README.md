@@ -295,7 +295,7 @@ Each device has carried out all the above tests; everything works as expected ap
 - Computer
   - Macbook Pro 16” - Chrome, Safari and Firefox
   - Hp Pavillion 14” - Chrome and Edge
-  - Acer Nitro 5 15” - Chrome and Internet Explorer
+  - Acer Nitro 5 15” - Chrome, Internet Explorer and Edge
   - Samusung 21.5” Touchscreen All in One PC - Chrome Browser
 
 ### Bugs 
