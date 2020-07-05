@@ -337,6 +337,7 @@ __From 500px__
 - Banner - Size reduced to fit better on mobile screens.
 - Logo - Reduce font size, collapse text so ‘ClickSnap’ now sits on top of “Photography’ for a more refined look.
 - Navigation Tab Menu - Changes to the mobile navigation button.
+- Social Media Links - Increased spacing for ease of navigation.
 
 - __Home Page:__
 - Price List - Cards stack into three rows.
