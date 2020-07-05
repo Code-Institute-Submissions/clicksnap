@@ -319,10 +319,10 @@ __Contact Page__
 __Footer__
 - __Social Media Links__
   - From navigation menu's _Home, Gallery, Schedule and Contact_ pages
-  - Click _‘Facebook Icon’_ Link - Directed to Facebook website or application if available 
-  - Click _‘Twitter Icon’_ Link - Directed to Twitter website or application if available 
-  - Click _‘LinkedIn Icon’_ Link - Directed to LinkedIn website or application if available 
-  - Click _‘Instagram Icon’_ Link - Directed to Instagram website or application if available 
+  - Click _‘Facebook Icon’_ Link - Opens Facebook in a new tab or application if available 
+  - Click _‘Twitter Icon’_ Link - Opens Twitter in a new tab or application if available 
+  - Click _‘LinkedIn Icon’_ Link - Opens LinkedIn in a new tab or application if available 
+  - Click _‘Instagram Icon’_ Link - Opens Instagram in a new tab or application if available 
 
 __Devices:__  
 Each device has carried out all the above tests; everything works as expected apart from a few bugs which are explained in the bug section.
@@ -349,6 +349,7 @@ Each device has carried out all the above tests; everything works as expected ap
   - Samsung Galaxy s20 Ultra - Chrome, Samsung Internet, Opera and Firefox
   - Motorola E Plus - Default Internet 
   - Sony Xperia Z5 - Chrome
+  - Iphone 8 - Safari
 
 - Computer
   - Macbook Pro 16” - Chrome, Safari and Firefox
