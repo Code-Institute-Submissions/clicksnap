@@ -209,7 +209,7 @@ _Contact Page_:
 - [x] Social Media Icons (Facebook, Twitter, LinkedIn and Instagram)
 - [x] Copywrite text and symbol 
 
-Testing Clickable Actions
+### Testing Clickable Actions
 
 - __Logo__
   - Go to _Home_ page
