@@ -90,6 +90,8 @@ This also allows potential clients to view students work in case they want to em
 
 -  Schedule Dropdown Menu - adding a new feature to the schedule; this allows students and potential students to be able to choose an option from a dropdown menu to specifically select a photography class and skill level so that they can view that particular timetable.
 
+-  Sticky Mobile Header/ Navigation - making the navigation button sticky makes it readily available without having to scroll to the top of the page on a mobile screen, as the page contents change from horizontal to vertical. This will make the site more accessible to the user when wanting to visit each page.
+
 ## Technologies Used
 
 - HTML  
@@ -148,7 +150,15 @@ This also allows potential clients to view students work in case they want to em
 - As a potential student, I can see the skills levels on the home page of the website. I can also see the cost, information on each course and what sort of payment plans they offer.
 
 ### Tests Carried Out
-__Logo__
+
+__Desktop__  
+Visit site  
+
+- [x] Banner
+
+fkdlkd
+
+- __Logo__
   - Go to _Home_ page
   - Click _Logo_ - Page refreshes
   - Go to _Gallery_ page
