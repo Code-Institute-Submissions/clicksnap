@@ -155,7 +155,7 @@ I have used the __W3 Vailidator__ to upload my HTML and CSS files in order to de
 ### Tests Carried Out 
 Test to make sure content loads on all browsers and devices:  
 _Home Page_:
-- Banner (Green) - [x]  
+- Banner (Green) -[x]  
 - Logo - [x]  
 - Logo Icon - [x]  
 - Navigation Menu Desktop Tabs (Home, Gallery, Schedule and Contact) - [x]  
@@ -180,7 +180,7 @@ _Gallery Page_:
 - Content and links (Beauty is in the lens of the beholder) - [x]
 - Footer (Green) - [x]
 - Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x] 
+- Copywrite text and symbol - [x]  
 _Schedule Page_:
 - Banner (Green) - [x]  
 - Logo - [x]  
@@ -191,7 +191,7 @@ _Schedule Page_:
 - Table (5 coloumns, 8 rows)) - [x]
 - Footer (Green) - [x]
 - Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
-- Copywrite text and symbol - [x] 
+- Copywrite text and symbol - [x]  
 _Contact Page_:
 - Banner (Green) - [x]  
 - Logo - [x]  
