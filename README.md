@@ -288,12 +288,12 @@ Each device has carried out all the above tests; everything works as expected ap
 
 - Mobiles
   - Samsung Galaxy J5 - Chrome and Samsung Internet
-  - Samsung Galaxy s20 Ultra - Chrome and Samsung Internet
+  - Samsung Galaxy s20 Ultra - Chrome, Samsung Internet, Opera and Firefox
   - Motorola E Plus - Default Internet 
   - Sony Xperia Z5 - Chrome
 
 - Computer
-  - Macbook Pro 16” - Chrome and Safari
+  - Macbook Pro 16” - Chrome, Safari and Firefox
   - Hp Pavillion 14” - Chrome and Edge
   - Acer Nitro 5 15” - Chrome and Internet Explorer
   - Samusung 21.5” Touchscreen All in One PC - Chrome Browser
@@ -313,6 +313,11 @@ __Appending Issues__
 - Not all browsers open social Media links in a new tab 
 - W3 Vailidator Warning - "The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill."
   - I have tested this in the browsers I have previously mentioned and it works fine in all apart from Internet Explorer. 
+- Internet Explorer - Images on Gallery page stretch, Date of Birth calendar is not supported, Telephone link doesn’t work.
+  - Had a discussion regarding Internet Explorer issues with 'Tutor Support' and was told not to worry about Internet Explorer as it is largely deprecated and this project wouldn’t be tested on it. 
+- Firefox Mobile and Desktop - Loading the website is much slower than other browsers, images take a while to load and images from gallery start out pixelated until the site finishes loading.
+  - Not sure where the issue is coming from.
+
 
 
 ### Screen and Device sizes
