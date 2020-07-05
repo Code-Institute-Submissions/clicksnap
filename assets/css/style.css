@@ -395,7 +395,7 @@ a.hero-button {
  outline: none;
  }
 
-th h4 {
+th[scope=col] {
     font-size: 20px;
     font-weight: bold;
 }
