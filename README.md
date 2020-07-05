@@ -269,6 +269,18 @@ __Footer__
 __Devices:__  
 Each device has carried out all the above tests; everything works as expected apart from a few bugs which are explained in the bug section.
 
+- Chrome Developer Tools
+  - Moto G4
+  - Galaxy S5
+  - Pixel 2
+  - Pixel 2 XL
+  - Iphone 5/SE
+  - Iphone 6/7/8
+  - Iphone 6/7/8 Plus
+  - Iphone X
+  - Ipad
+  - Ipad Pro
+
 - Tablets
   - Amazon Kindle 5th Gen - Silk Browser
   - Ipad Air 1st Gen - Safari
