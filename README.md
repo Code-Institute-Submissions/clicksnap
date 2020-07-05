@@ -355,7 +355,7 @@ __From 500px__
 ## Deployment
 
 To deploy the project through GitHub Pages these are the steps I have taken:
-- Log into github.com
+- Log into [GitHub](https://github.com/)
 - Click the circle logo in the top right-hand corner
 - Click Your repositories
 - Scroll down and click on the repository you want to deploy
