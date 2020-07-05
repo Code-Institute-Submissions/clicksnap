@@ -118,7 +118,7 @@ This also allows potential clients to view students work in case they want to em
   I have used __Google Fonts__ in my project by importing the chosen fonts into the __CSS__.
    - __Abel Font__ has been used to decorate the main body text in the HTML.
    - __Dosis Font__ has been used to decorate the _Navigation Tabs_.
-   - __Cinzel decorative__ has been used to decorate the _Logo_.
+   - __Cinzel Decorative Font__ has been used to decorate the _Logo_.
 
 - [JavaScript](https://www.javascript.com/)  
   I have used __JavaScript__ in my project to correspond with Bootstraps components:
@@ -128,3 +128,21 @@ This also allows potential clients to view students work in case they want to em
 
 - [Maps-Generator](https://maps-generator.com/)  
   I have used the __Maps Generator__ on the _Contact Page_ to show a thumbnail which when clicked will show the company’s location in google maps.
+
+## Testing:
+
+### User Stories:
+  
+- As a potential student, I can click the gallery page directly from the navigation menu to view students work. I can click the arrows to scroll through each photograph. From here I can click a link that takes me to the contact page so that I can fill out the form regarding enrolling on a course.
+
+- As a client I can view students work in the gallery page and see the names and descriptions of their work. From here I click a link below to send an email or fill out a form so that I can enquire about hiring. 
+
+- As an owner I have provided a schedule page for my students, so that I can easily make any updates, changes or new information as well as show the current schedule on a weekly basis.
+
+- As an owner I have provided a text box on the contact page, so that any students or visitors can easily get in contact and also give any feedback.
+
+- As a user/student/potential student I can access the contact page directly from the navigation menu. From here I can fill out a form, email or call the company so that I can share any ideas, or speak to someone directly if I have any problems.
+
+- As a student/potential student, I can click on the schedule page and be able to view any changes to the current weeks timetable and also have the option to download the monthly schedule so that I can print this out. 
+
+- As a potential student, I can see the skills levels on the home page of the website. I can also see the cost, information on each course and what sort of payment plans they offer.
