@@ -229,7 +229,7 @@ Each device has carried out all the above tests; everything works as expected ap
 
 __W3 Vailidator__
 - I have ran my local code files through the W3 vailidator and fixed all found issues and errors within my code, apart from the 'data input warning' which is explained in '__Pending Issues__' in more detail.
-I have also ran my published site through the vailidator which brings up other warnings or errors that have come from the libraries that I  have incorporated into my code. These have been listed in __Technologies Used__.
+I have also ran my published site through the vailidator which doesn't bring up any other warnings or errors.
 
 __Fixed Issues__
 - When the map code has been editied an error message shows up even though the map still functions as normal
