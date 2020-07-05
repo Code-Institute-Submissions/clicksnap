@@ -308,16 +308,17 @@ __Fixed Issues__
 - Schedule Page - Click ‘Download Full Month’ button - Error ‘Download Failed No File’
     - Fix: Remove “/” from the start of the file path.
 
-__Appending Issues__
-- On Samusung 21.5” Touchscreen All in One PC (Chrome Browser) - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response
-- Not all browsers open social Media links in a new tab 
+__Pending Issues__
+- On Samusung 21.5” Touchscreen All in One PC (Chrome Browser) - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response.
+  - Not sure where the issue is coming from. It works on all the other devices I have tested.
 - W3 Vailidator Warning - "The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill."
-  - I have tested this in the browsers I have previously mentioned and it works fine in all apart from Internet Explorer. 
+  - I have tested this in the browsers I have previously mentioned and it works fine on all apart from Internet Explorer. 
 - Internet Explorer - Images on Gallery page stretch, Date of Birth calendar is not supported, Telephone link doesn’t work.
   - Had a discussion regarding Internet Explorer issues with 'Tutor Support' and was told not to worry about Internet Explorer as it is largely deprecated and this project wouldn’t be tested on it. 
 - Firefox Mobile and Desktop - Loading the website is much slower than other browsers, images take a while to load and images from gallery start out pixelated until the site finishes loading.
   - Not sure where the issue is coming from.
-
+- Ipad Pro (Chrome Developer Tools) - On the Gallery, Schedule and Contact pages; the footer is not sat at the bottom of the page as it should be.
+  - This issue still needs to be approched but due to the time frame I have considered this as a low severity due to this problem only being on one device.
 
 
 ### Screen and Device sizes
