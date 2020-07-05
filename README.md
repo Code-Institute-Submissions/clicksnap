@@ -131,6 +131,9 @@ This also allows potential clients to view students work in case they want to em
 - [Maps-Generator](https://maps-generator.com/)  
   I have used the __Maps Generator__ on the _Contact Page_ to show a thumbnail which when clicked will show the company’s location in google maps.
 
+- [W3 Vailidator](https://validator.w3.org/)  
+I have used the __W3 Vailidator__ to upload my HTML and CSS files in order to detected any errors and issues within my code.
+
 ## Testing
 
 ### User Stories
@@ -149,26 +152,72 @@ This also allows potential clients to view students work in case they want to em
 
 - As a potential student, I can see the skills levels on the home page of the website. I can also see the cost, information on each course and what sort of payment plans they offer.
 
-### Tests Carried Out
+### Tests Carried Out 
+Test to make sure content loads on all browsers and devices:  
+_Home Page_:
+- Banner (Green) - [x]  
+- Logo - [x]  
+- Logo Icon - [x]  
+- Navigation Menu Desktop Tabs (Home, Gallery, Schedule and Contact) - [x]  
+- Navigation Menu Mobile Dropdown Button (Home, Gallery, Schedule and Contact) - [x]
+- Camera Hero Image and Animation - [x]
+- Content and links (Introduction, About and Price List Sections) - [x]
+- Dropdown Cards (Landscape, Macro, Panoramic, Portrait, Shutter Speed, Silhouette and Still Life) - [x]
+- Price List Cards Desktop (3 coloumns, orange headers) - [x]
+- Price List Cards Mobile (3 rows, orange headers) - [x]
+- Footer (Green) - [x]
+- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
+- Copywrite text and symbol - [x]  
+_Gallery Page_:
+- Banner (Green) - [x]
+- Logo - [x]  
+- Logo Icon - [x]  
+- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]
+- Slideshow all 14 images (Slide auto scroll) - [x]
+- Arrow Controls - [x]
+- Slideshow Name, Course Title and Description (Desktop) - [x]
+- Slideshow Name and Course Title (Mobile) - [x]
+- Content and links (Beauty is in the lens of the beholder) - [x]
+- Footer (Green) - [x]
+- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
+- Copywrite text and symbol - [x] 
+_Schedule Page_:
+- Banner (Green) - [x]  
+- Logo - [x]  
+- Logo Icon - [x]  
+- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]  
+- Camera Map Hero Image and Animation - [x]
+- Download Full Month Button - [x]
+- Table (5 coloumns, 8 rows)) - [x]
+- Footer (Green) - [x]
+- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
+- Copywrite text and symbol - [x] 
+_Contact Page_:
+- Banner (Green) - [x]  
+- Logo - [x]  
+- Logo Icon - [x]  
+- Navigation Menu Tabs (Home, Gallery, Schedule and Contact) - [x]  
+- Phone Camera Hero Image and Animation - [x]
+- Content and links (Address, Email and Phone) - [x]
+- Map (Desktop) - [x]
+- Form (First name, last name, email, dob, starting level, course interest, text box and send button) - [x]
+- Footer (Green) - [x]
+- Social Media Icons (Facebook, Twitter, LinkedIn and Instagram) - [x]
+- Copywrite text and symbol - [x] 
 
-__Desktop__  
-Visit site  
-
-- [x] Banner
-
-fkdlkd
+Testing Clickable Actions
 
 - __Logo__
   - Go to _Home_ page
   - Click _Logo_ - Page refreshes
   - Go to _Gallery_ page
   - Click _Logo_ - Directed to _Home_ page
-  - Go to schedule page
+  - Go to Schedule page
   - Click _Logo_ - Directed to _Home_ page
   - Go to _Contact_ page
   - Click _Logo_ - Directed to _Home_ page
 
-__Navigation Menu Tabs (Desktop)__  
+__Navigation Menu Tabs (Desktop)__ 
 - __Home__
   - Click _Home_ tab on _Home_ page - Page refreshes
   - Click _Home_ tab on _Gallery, Schedule_ and _Contact_ page - Directed to _Home_ page - _Home_ tab now has white background
@@ -214,11 +263,6 @@ __Navigation Menu Button (Mobile)__
   - Close Nav Button - _Contact Icon_ is shown on Nav Button
   - Click Nav Button on _Home, Gallery_ and _Schedule_ page - Dropdown menu appears - Click _Contact_ text - Directed to _Contact_ page
 
-__Hero Image__
-- Click _Home_ page - Hero image animation starts - Zooms in on image
-- Click _Schedule_ page - Hero image animation starts - Zooms in on image
-- Click _Contact_ page - Hero image animation starts - Zooms in on image
-
 __Home Page__
 
 - __Dropdowns__
@@ -244,6 +288,7 @@ __Gallery Page__
 
 - __Picture Slideshow (Desktop)__
   - Click arrows left or right - Image changes
+  - Click keyboard arrows left or right - Image changes
 
 - __Links__
   - Click _'contact page'_ link - Directed to _Contact_ page
@@ -268,9 +313,12 @@ __Contact Page__
   - Fill out ‘Email’ correctly - Text box alert appears on the _‘Date of Birth’_ field: _"please fill in this field"_  
   - Fill out ‘Date of Birth’ - form is able to be submitted - all fields are reset
 
+- __Map__ 
+  - Click map - Directed to Google Maps with the correct location.
+
 __Footer__
 - __Social Media Links__
-  - From navigation menus _Home, Gallery, Schedule and Contact_ pages
+  - From navigation menu's _Home, Gallery, Schedule and Contact_ pages
   - Click _‘Facebook Icon’_ Link - Directed to Facebook website or application if available 
   - Click _‘Twitter Icon’_ Link - Directed to Twitter website or application if available 
   - Click _‘LinkedIn Icon’_ Link - Directed to LinkedIn website or application if available 
@@ -310,6 +358,10 @@ Each device has carried out all the above tests; everything works as expected ap
 
 ### Bugs 
 
+__W3 Vailidator__
+- I have ran my local code files through the W3 vailidator and fixed all found issues and errors within my code, apart from the 'data input warning' which is explained in '__Pending Issues__' in more detail.
+I have also ran my published site through the vailidator which brings up other warnings or errors that have come from the libraries that I  have incorporated into my code. These have been listed in __Technologies Used__.
+
 __Fixed Issues__
 - When the map code has been editied an error message shows up even though the map still functions as normal
    - Fix: Change error message display to none in CSS
@@ -322,7 +374,7 @@ __Pending Issues__
 - On Samusung 21.5” Touchscreen All in One PC (Chrome Browser) - On the Gallery Page and Contact page, when the ‘email’ link is clicked there is no response.
   - Not sure where the issue is coming from. It works on all the other devices I have tested.
 - W3 Vailidator Warning - "The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill."
-  - I have tested this in the browsers I have previously mentioned and it works fine on all apart from Internet Explorer. 
+  - I have tested this in the browsers I have previously mentioned, and it works fine on all apart from Internet Explorer. After speaking to ‘Tutor Support’ I found that to fix this issue I would need to use custom JavaScript code; which I have not yet covered on this course.
 - Internet Explorer - Images on Gallery page stretch, Date of Birth calendar is not supported, Telephone link doesn’t work.
   - Had a discussion regarding Internet Explorer issues with 'Tutor Support' and was told not to worry about Internet Explorer as it is largely deprecated and this project wouldn’t be tested on it. 
 - Firefox Mobile and Desktop - Loading the website is much slower than other browsers, images take a while to load and images from gallery start out pixelated until the site finishes loading.
